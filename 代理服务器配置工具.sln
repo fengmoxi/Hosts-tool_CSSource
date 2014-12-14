@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "客户端", "客户端\客户端.csproj", "{EE46BA17-9B1E-4061-87CC-4C0F91CA0CD1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "远程XML生成端", "远程XML生成端\远程XML生成端.csproj", "{BFB8A796-D08A-4518-B8E3-37D60B7F5047}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE46BA17-9B1E-4061-87CC-4C0F91CA0CD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE46BA17-9B1E-4061-87CC-4C0F91CA0CD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE46BA17-9B1E-4061-87CC-4C0F91CA0CD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE46BA17-9B1E-4061-87CC-4C0F91CA0CD1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFB8A796-D08A-4518-B8E3-37D60B7F5047}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFB8A796-D08A-4518-B8E3-37D60B7F5047}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFB8A796-D08A-4518-B8E3-37D60B7F5047}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFB8A796-D08A-4518-B8E3-37D60B7F5047}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
